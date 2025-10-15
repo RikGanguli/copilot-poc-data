@@ -1,0 +1,16 @@
+quote_id,insured_name,state,lob,tiv_usd,deductible_usd,loss_ratio_pct,status,underwriter,effective_date
+1,Hudson Bakery Inc,NY,GL,350000,25000,32.5,Open,A. Rivera,15-09-2025
+2,Empire Auto Parts,NY,Auto,120000,50000,44.9,Open,J. Patel,20-08-2025
+3,Green Valley Hotels,VT,Property,800000,100000,48.2,Open,M. Chen,02-07-2025
+4,Seaside Construction,MA,GL,260000,25000,39,Open,L. Singh,01-09-2025
+5,Tri-State Logistics,NJ,Property,900000,25000,28,Open,R. Gomez,25-09-2025
+6,Beacon Retail LLC,NY,Property,500000,25000,41,Open,A. Rivera,02-08-2025
+7,Maple Foods Co,VT,GL,220000,25000,30,Open,K. Davis,30-07-2025
+8,Bay Harbor Marine,MA,Property,300000,50000,55,Open,J. Patel,11-06-2025
+9,Liberty Apparel,NY,GL,275000,25000,24,Open,M. Chen,10-09-2025
+10,North River Labs,NJ,Property,1250000,250000,35,Open,L. Singh,29-08-2025
+11,Clifton Foods,NJ,GL,410000,25000,34,Open,R. Gomez,18-07-2025
+12,Boston BioTech,MA,Property,680000,50000,29,Open,A. Rivera,25-07-2025
+13,Catskill Outfitters,NY,GL,300000,25000,43.5,Open,K. Davis,05-09-2025
+14,Garden State Movers,NJ,Auto,450000,25000,31.5,Open,M. Chen,05-08-2025
+15,Green Harbor Labs,MA,GL,520000,50000,27,Open,J. Patel,07-09-2025
